@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏买量竞品分析"
+  short_description: "按投放阶段采集竞品素材，逐条拆解买量打法并交付总览与素材表"
+  default_prompt: "使用 $game-ua-competitor-analysis，按投放阶段分析指定竞品，交付总览报告、逐条素材表和验收结果。"
